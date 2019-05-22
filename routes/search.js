@@ -5,8 +5,8 @@ const axios = require('axios');
 
 var awis = require('awis');
 var client = awis({
-  secret: 'P5OqFC44GVhWuHfSAAePD0v0vpXzxvnxdK5p8w3b',
-  key: 'AKIAJZBZP2OEMHRQ3Q7A'
+  secret: '',
+  key: ''
 });
 
 
